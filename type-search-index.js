@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"itec3030.assignments.a2","l":"AbstractNewTempSensorAdapter"},{"l":"All Classes","url":"allclasses-index.html"},{"p":"itec3030.assignments.a2","l":"NewTempSensorAdapter"},{"p":"itec3030.assignments.a2","l":"NewTempSensorConcreteObserver"}]
