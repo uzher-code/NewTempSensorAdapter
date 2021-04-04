@@ -1,0 +1,2 @@
+# NewTempSensorAdapter
+For course project
